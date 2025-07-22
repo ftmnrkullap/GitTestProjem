@@ -1,0 +1,16 @@
+# Python projeleri için
+__pycache__/
+*.pyc
+
+# Log dosyaları
+*.log
+
+# Ortam dosyaları
+.env
+
+# Editor/IDE dosyaları
+.vscode/
+.idea/
+
+# Node.js projeleri için
+node_modules/
